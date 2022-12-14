@@ -7,7 +7,7 @@ export default function Footer () {
 
     return (
         <div className="Footer">
-        <img className="imgReactflixFooter" src={reactflix} alt="" />
+       
         <p> ReactFlix é um site de cinema feito para o projeto do curso Programadores Cariocas que têm como objetivo consumir fake API e utilizar os métodos HTTP</p>
         <ul className="listaFooter">
             <li><img className="imgFooter" src={instagram} alt="" /></li>
